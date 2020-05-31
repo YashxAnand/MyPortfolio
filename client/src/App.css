@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Montserrat:wght@500&display=swap");
+.App {
+  font-family: "Montserrat", sans-serif;
+}
+
+.home {
+  background: url("images/background.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  color: white;
+}
+
+.home-inner {
+  padding: 35vh 0 0 2vh;
+}
+
+.body {
+  position: relative;
+}
+
+.dark-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.navigation {
+  background-color: transparent;
+  color: white;
+  transition: 200ms;
+}
+
+.download-resume {
+  color: white;
+  font-size: 140%;
+  border: white 2px solid;
+  border-bottom-left-radius: 50px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-top-right-radius: 50px;
+}
+
+.navigation a {
+  color: white;
+}
+
+.section {
+  font-family: "Pacifico", cursive;
+  font-size: 150%;
+}
+
+.education-img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.project-title {
+  color: white;
+  background-color: #1765ba;
+}
+
+#skills-section ul {
+  list-style-type: none;
+}
+
+.skill {
+  font-size: 3vw;
+  margin: 10px;
+  float: left;
+}
+
+#certificates-section {
+  background-color: #135107;
+  color: yellow;
+}
+
+#contact-section {
+  background-color: #00e9ff;
+  color: black;
+}
+
+.contact-details a {
+  text-decoration: none;
+  color: black;
+}
+
+.footer-comp {
+  background-color: #343a40;
+  color: white;
+}
+
+.text-small {
+  font-family: "Montserrat", sans-serif;
+  font-size: 50%;
+}
+
+.about-enter {
+  opacity: 0;
+}
+.about-enter-active {
+  opacity: 1;
+  transition: opacity 2000ms;
+}
+.about-exit {
+  opacity: 1;
+}
+.about-exit-active {
+  opacity: 0;
+  transition: opacity 2000ms;
+}
