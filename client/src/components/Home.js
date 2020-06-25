@@ -21,7 +21,7 @@ function Home() {
             </div>
             <div className='col-12'>
               <a
-                href='https://drive.google.com/open?id=1G3j7SZmyZceD9s00x3Stgiwa_x6VZ1Ll'
+                href='https://drive.google.com/file/d/1iq0gSwPn6uF5dPpIezjlVKd3UVDWXxPU/view?usp=sharing'
                 target='_blank'
                 rel='noopener noreferrer'
               >

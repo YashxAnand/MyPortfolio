@@ -96,7 +96,7 @@ function Projects() {
                     </p>
                     <p>
                       <a
-                        href='https://github.com/YashxAnand/E-Commerce-Website'
+                        href='https://github.com/YashxAnand/shop-ease'
                         target='_blank'
                         rel='noopener noreferrer'
                       >
