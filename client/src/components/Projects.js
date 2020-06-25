@@ -83,16 +83,16 @@ function Projects() {
                   className='project-title'
                   eventKey='2'
                 >
-                  My Awesome Cart: e-Commerce website
+                  ShopEase.com: eCommerce website
                 </Accordion.Toggle>
                 <Accordion.Collapse eventKey='2'>
                   <Card.Body>
                     <p>
-                      This is an e-commerce website named My Awesome Cart. This
-                      website was implemented using Django framework. Frontend
-                      was implemented using HTML, CSS, Javascript, Bootstrap.
-                      This website has all the basic features like searching an
-                      item, cart, payment portal etc.
+                      This is an eCommerce website named ShopEase.com. It's a
+                      MERN stack web application. User can search products they
+                      want to buy, add and save it in cart and checkout anytime.
+                      Bootstrap has also been used in the frontend of this
+                      website.
                     </p>
                     <p>
                       <a
