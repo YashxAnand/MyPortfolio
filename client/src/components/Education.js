@@ -61,7 +61,7 @@ function Education() {
               <Media heading>Vellore Institute of Technology, Vellore</Media>
               <p>B. Tech, Computer Science Engineering</p>
               <p>2018-2022</p>
-              <p>9.48 CGPA</p>
+              <p>9.32 CGPA</p>
             </div>
           </div>
         </Media>
